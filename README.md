@@ -43,10 +43,10 @@ I enjoy improving my skills, learning new technologies, and contributing to real
 
 ## Socials
 <div align="left">
-  <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
+  <a href="https://instagram.com/ja660r.x" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
   </a>
-  <a href="https://t.me/YOUR_TELEGRAM" target="_blank">
+  <a href="https://t.me/abduganivich_5502" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=26A5E4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo" />
   </a>
   <a href="https://YOUR_PORTFOLIO_SITE" target="_blank">
