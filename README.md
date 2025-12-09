@@ -41,7 +41,7 @@ I enjoy improving my skills, learning new technologies, and contributing to real
     <img width="12" />
 </div>
 
-## Socials
+### Socials
 <div align="left">
   <a href="https://instagram.com/ja660r.x" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
@@ -51,6 +51,9 @@ I enjoy improving my skills, learning new technologies, and contributing to real
   </a>
   <a href="https://YOUR_PORTFOLIO_SITE" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=web&label=&color=4A90E2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo" />
+  </a>
+  <a href="mailto:abduvahobovabdujabbor7@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo" />
   </a>
 </div>
 
