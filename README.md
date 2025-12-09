@@ -49,14 +49,13 @@ I enjoy improving my skills, learning new technologies, and contributing to real
   <a href="https://t.me/abduganivich_5502" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=26A5E4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo" />
   </a>
-  <a href="https://YOUR_PORTFOLIO_SITE" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=web&label=&color=4A90E2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo" />
-  </a>
   <a href="mailto:abduvahobovabdujabbor7@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo" />
   </a>
+  <a href="https://portfolio-eight-sepia-nsmwhp488p.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=web&label=&color=4A90E2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo" />
+  </a>
 </div>
-
 
 
 
